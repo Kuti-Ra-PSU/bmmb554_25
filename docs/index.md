@@ -1,3 +1,8 @@
+------
+layout:default
+title: "KR's Website"
+-------
+
 # My great web site
 
 My name is Kuti 
